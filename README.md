@@ -1,6 +1,12 @@
-# adhaar-link-docs
+# SecureDocShare
 
-A modern web application built with React and TypeScript for sports enthusiasts.
+A modern web application built with React and TypeScript for securely sharing and managing government documents with family members.
+
+🔗 **Live Demo**: [https://anchal-prasad.github.io/Secure-And-Share-Govt-Document-with-Family/](https://anchal-prasad.github.io/Secure-And-Share-Govt-Document-with-Family/)
+
+## Overview
+
+SecureDocShare provides a secure platform for families to manage and share important government documents like Aadhaar cards, ensuring privacy and easy access when needed.
 
 ## Getting Started
 
@@ -15,10 +21,10 @@ Follow these steps to get the project running locally:
 
 ```sh
 # Step 1: Clone the repository
-git clone <YOUR_GIT_URL>
+git clone https://github.com/anchal-prasad/Secure-And-Share-Govt-Document-with-Family.git
 
 # Step 2: Navigate to the project directory
-cd <YOUR_PROJECT_NAME>
+cd Secure-And-Share-Govt-Document-with-Family
 
 # Step 3: Install dependencies
 npm install
@@ -67,6 +73,14 @@ This project is built using modern web technologies:
 - **shadcn/ui** - Beautiful and accessible UI components
 - **Tailwind CSS** - Utility-first CSS framework
 
+## Features
+
+- 🔒 Secure document storage and sharing
+- 👨‍👩‍👧‍👦 Family-centric access management
+- 📄 Government document handling (Aadhaar, etc.)
+- 🎨 Modern, responsive UI
+- ⚡ Fast and optimized performance
+
 ## Project Structure
 
 ```
@@ -81,6 +95,8 @@ src/
 
 ## Contributing
 
+Contributions are welcome! Here's how you can help:
+
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
@@ -89,10 +105,21 @@ src/
 
 ## Deployment
 
-This application can be deployed to various platforms:
+This application is deployed on **GitHub Pages** and can also be deployed to various other platforms:
 
+- **GitHub Pages**: Automated deployment via GitHub Actions (current deployment)
 - **Vercel**: Connect your GitHub repository for automatic deployments
 - **Netlify**: Drag and drop the `dist` folder after running `npm run build`
-- **GitHub Pages**: Use GitHub Actions for automated deployment
 - **Any static hosting service**: Upload the contents of the `dist` folder
+
+### Deploying to GitHub Pages
+
+The project is configured for GitHub Pages deployment. Push to the main branch to trigger automatic deployment.
+
+
+
+## Author
+
+**Anchal Prasad**
+- GitHub: [@anchal-prasad](https://github.com/anchal-prasad)
 
