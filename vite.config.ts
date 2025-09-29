@@ -7,8 +7,8 @@ const minimalTagger = () => ({
 });
 
 export default defineConfig(({ mode }) => ({
-  // IMPORTANT: This matches your exact GitHub repository name
-  base: mode === 'production' ? '/Secure-And-ShareGovt-Document-with-Family/' : '/',
+  
+  base: mode === 'production' ? '/Secure-And-Share-Govt-Document-with-Family/' : '/',
   
   server: {
     host: "::",

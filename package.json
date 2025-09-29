@@ -1,14 +1,14 @@
 {
-  "name": "Secure-And-ShareGovt-Document-with-Family",
+  "name": "Secure-And-Share-Govt-Document-with-Family",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "author": "Anchal Prasad",
   "description": "Secure document management system for organizing and managing important files and documents",
-  "homepage": "https://Anchal-Prasad.github.io/Secure-And-ShareGovt-Document-with-Family/",
+  "homepage": "https://Anchal-Prasad.github.io/Secure-And-Share-Govt-Document-with-Family/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Anchal-Prasad/Secure-And-ShareGovt-Document-with-Family.git"
+    "url": "https://github.com/Anchal-Prasad/Secure-And-Share-Govt-Document-with-Family.git"
   },
   "scripts": {
     "dev": "vite",
