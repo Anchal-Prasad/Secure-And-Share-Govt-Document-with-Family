@@ -1,4 +1,12 @@
 # SecureDocShare
+<img width="1025" height="602" alt="11" src="https://github.com/user-attachments/assets/d28c561b-6b03-4bbf-99c2-c0f93719404d" />
+<img width="349" height="377" alt="12" src="https://github.com/user-attachments/assets/3e22e11f-ec8e-4f61-bde6-c9a2d467b0d1" />
+<img width="1123" height="605" alt="13" src="https://github.com/user-attachments/assets/99de9055-f744-42c8-8214-f02586a17bb2" />
+<img width="1161" height="573" alt="14" src="https://github.com/user-attachments/assets/e866bebd-090e-4bf7-9ffa-f50a1d1a2886" />
+<img width="998" height="542" alt="15" src="https://github.com/user-attachments/assets/c2815ff2-364e-43d0-a338-7d90af764faa" />
+
+
+
 
 A modern web application built with React and TypeScript for securely sharing and managing government documents with family members.
 
