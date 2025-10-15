@@ -10,7 +10,8 @@
 
 A modern web application built with React and TypeScript for securely sharing and managing government documents with family members.
 
-🔗 **Live Demo**: [https://anchal-prasad.github.io/Secure-And-Share-Govt-Document-with-Family/](https://anchal-prasad.github.io/Secure-And-Share-Govt-Document-with-Family/)
+🔗 **Live Demo**: secure-and-share-govt-document-with-family-jc2ek7xvx.vercel.app
+[https://anchal-prasad.github.io/Secure-And-Share-Govt-Document-with-Family/](https://anchal-prasad.github.io/Secure-And-Share-Govt-Document-with-Family/)
 
 ## Overview
 
