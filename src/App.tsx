@@ -66,7 +66,7 @@ const App = () => (
       <AuthProvider>
         <Toaster />
         <Sonner />
-        <BrowserRouter basename="/Secure-And-Share-Govt-Document-with-Family">
+        <BrowserRouter basename="/">
           <AppRoutes />
         </BrowserRouter>
       </AuthProvider>
