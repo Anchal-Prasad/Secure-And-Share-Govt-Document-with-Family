@@ -76,3 +76,4 @@ debug.log
 
 # Optional: Supabase local development
 .supabase
+.vercel
